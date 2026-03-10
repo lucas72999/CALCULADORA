@@ -14,3 +14,8 @@ if operaçoes == "SUBTRAÇAO":
 if operaçoes == "MULTIPLICAÇAO":
     print(num1 * num2)
 
+if operaçoes == "DIVISAO":
+    if num2 == 0:
+        print("ERROR")
+    else:
+        print(num1 / num2)
