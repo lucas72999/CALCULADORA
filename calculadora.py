@@ -11,3 +11,6 @@ if operaçoes == "SOMA":
 if operaçoes == "SUBTRAÇAO":
     print(num1 - num2)
 
+if operaçoes == "MULTIPLICAÇAO":
+    print(num1 * num2)
+
